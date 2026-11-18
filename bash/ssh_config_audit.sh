@@ -41,3 +41,5 @@ echo "=================================="
 echo "         AUDIT COMPLETED"
 echo "=================================="
 
+#chmod +x ssh_config_audit.sh
+# ./ssh_config_audit.sh
